@@ -1,0 +1,29 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore MkDocs build output
+# site/
+
+# Ignore local development environments
+.env
+.vscode/
+.idea/
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore MkDocs configuration backups
+*.swp
+*.swo
+
+# Ignore temporary files
+*.tmp
+*.temp
