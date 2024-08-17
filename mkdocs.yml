@@ -7,4 +7,6 @@ nav:
   - About: about.md
 theme:
   name: windmill
-
+plugins:
+  - search
+  
