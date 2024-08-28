@@ -19,4 +19,4 @@ This project is a **Django-based Music Player Web App** that I've built from scr
 
 This Django Music Player Web App is a testament to my ability to develop web applications that are both functional and visually engaging. By loading songs directly into the app, I have created a personalized music experience that stands out from standard music players.
 
-![Django Music Player Web App](\assets\img\MusicPlayer.gif)
+![Django Music Player Web App]("assets\img\MusicPlayer.gif")
